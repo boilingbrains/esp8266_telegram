@@ -1,9 +1,5 @@
 # esp8266_telegram
 
-## Introduction: 
-
-
-
 ## Structure du projet
 ```
 📦project
