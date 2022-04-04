@@ -11,7 +11,7 @@
 │   📜telegram_relais.ino
 │   📜telegram_donnees.ino
 │   📜telegram_notif.ino
-└───📜miniature
+└───📜miniature.jpg
 
 ```
 
