@@ -17,6 +17,6 @@ Clique sur l'image pour accéder à la vidéo d'explication.
 
 <span style="display:block;text-align:center">
 
-[![](miniature.jpg#center)](https://youtu.be/YDBAWGB8N_0)
+[![](miniature.jpg#center)](https://youtu.be/X-h3xfoGpDg)
 
 </span>
